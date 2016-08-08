@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Electric Tees]]></title>
+        <description><![CDATA[Electric Tees]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Aug 2016 15:48:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14912b51-d952-4ee1-8539-347b0a9d5927.jpg">]]></description>
+            <link>undefined2e4992e2-338f-4b12-9a74-d5d4263e57a0/index.html</link>
+            <guid isPermaLink="false">2e4992e2-338f-4b12-9a74-d5d4263e57a0</guid>
+            <pubDate>Mon, 08 Aug 2016 15:48:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
